@@ -13,4 +13,5 @@
 ![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=giulianbiolo_01&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)
 ![Linkedin](https://img.shields.io/static/v1?style=for-the-badge&message=giulianbiolo&color=0072B1&logo=Telegram&logoColor=FFFFFF&label=)
 
-[![Giulian's GitHub stats](https://github-readme-stats.vercel.app/api?username=giulianbiolo)](https://github.com/anuraghazra/github-readme-stats)
+[![Giulian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giulianbiolo&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Giulian's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giulianbiolo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
